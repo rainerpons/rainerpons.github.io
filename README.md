@@ -1,6 +1,6 @@
 # rainerpons.github.io
 
-> Source code for [my personal website](rainerpons.github.io) which includes portfolio, resume, and thesis pages
+> Source code for [my personal website](https://rainerpons.github.io) which includes portfolio, resume, and thesis pages
 
 
 
