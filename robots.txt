@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /decorock/
+Sitemap: https://rainerpons.github.io/sitemap.xml
