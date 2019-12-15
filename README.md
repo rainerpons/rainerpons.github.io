@@ -1,4 +1,4 @@
-# rainerpons.github.io
+# rainerpons.com
 
 > Source code for [my personal website](https://rainerpons.com).
 
