@@ -5,39 +5,39 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>https://rainerpons.github.io/</loc>
+        <loc>https://rainerpons.com</loc>
         <lastmod>2019-04-25T04:17:21+00:00</lastmod>
         <changefreq>hourly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>https://rainerpons.github.io/index.html</loc>
+        <loc>https://rainerpons.com/index.html</loc>
         <lastmod>2019-04-25T04:17:21+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.80</priority>
     </url>
     <url>
-        <loc>https://rainerpons.github.io/resume.html</loc>
+        <loc>https://rainerpons.com/development.html</loc>
         <lastmod>2019-04-25T04:17:21+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.80</priority>
     </url>
     <url>
-        <loc>https://rainerpons.github.io/portfolio.html</loc>
+        <loc>https://rainerpons.com/photography.html</loc>
         <lastmod>2019-04-25T04:17:21+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.80</priority>
     </url>
     <url>
-        <loc>https://rainerpons.github.io/thesis.html</loc>
+        <loc>https://rainerpons.com/billiards.html</loc>
         <lastmod>2019-04-25T04:17:21+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.80</priority>
     </url>
     <url>
-        <loc>https://rainerpons.github.io/assets/files/resume.pdf</loc>
+        <loc>https://rainerpons.com/404.html</loc>
         <lastmod>2019-04-25T04:17:21+00:00</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>0.80</priority>
+        <priority>0.20</priority>
     </url>
 </urlset>
