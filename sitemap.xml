@@ -16,6 +16,7 @@
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
+    <!--
     <url>
         <loc>https://rainerpons.com/development</loc>
         <lastmod>2019-04-25T04:17:21+00:00</lastmod>
@@ -28,6 +29,7 @@
         <changefreq>monthly</changefreq>
         <priority>0.80</priority>
     </url>
+	-->
     <url>
         <loc>https://rainerpons.com/photography</loc>
         <lastmod>2019-04-25T04:17:21+00:00</lastmod>
@@ -46,6 +48,7 @@
         <changefreq>weekly</changefreq>
         <priority>0.80</priority>
     </url>
+    <!--
     <url>
         <loc>https://rainerpons.com/404</loc>
         <lastmod>2019-04-25T04:17:21+00:00</lastmod>
@@ -58,4 +61,5 @@
         <changefreq>monthly</changefreq>
         <priority>0.20</priority>
     </url>
+	-->
 </urlset>
