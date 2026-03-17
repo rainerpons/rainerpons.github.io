@@ -62,4 +62,10 @@
         <priority>0.20</priority>
     </url>
 	-->
+    <url>
+        <loc>https://rainerpons.com/resume</loc>
+        <lastmod>2026-03-17T00:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.70</priority>
+    </url>
 </urlset>
